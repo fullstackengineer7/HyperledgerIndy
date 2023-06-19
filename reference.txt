@@ -1,0 +1,2 @@
+https://github.com/fullstackengineer7/HyperledgerIndy.git
+https://medium.com/stm-blockchain/developing-applications-using-hyperledger-indy-ursa-and-aries-frameworks-concepts-7c5955b8cc1
